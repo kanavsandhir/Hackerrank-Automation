@@ -1,0 +1,6 @@
+//config.json file to login
+{
+    "userid":"*****",
+    "password":"*****",
+     "moderators":["Moderator to add"]
+}
